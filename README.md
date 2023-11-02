@@ -1,2 +1,2 @@
 # shinalex-cheat
-basic cheat with lua support 
+fix it urself lol
